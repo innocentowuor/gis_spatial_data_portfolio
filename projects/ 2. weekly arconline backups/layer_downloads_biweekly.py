@@ -1,4 +1,4 @@
-# Mountain Goat AGOL Layer Download Script (Simplified)
+# ArcGIS Online Feature Layer Download Script (Simplified)
 # Author: Innocent Owuor
 # Date: 27th March 2025
 # Updated: 
